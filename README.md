@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adnan Khan</h1>
 <h3 align="center">Mastering the Art of Front-End Development: Where Creativity Meets Functionality</h3>
 
+- 🌱 I’m currently learning **Next JS**
+
+- 💬 Ask me about **Front End Development, HTML5, CSS3, SASS, Bootstrap, JavaScript, VITE, React JS, Next JS**
+
+- 📫 How to reach me **adnankhannad@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adnan-khan-2a2b67172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adnan-khan-2a2b67172/" height="30" width="40" /></a>
